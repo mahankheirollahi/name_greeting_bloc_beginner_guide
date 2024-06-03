@@ -10,8 +10,8 @@
 ## App Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/mahankheirollahi/name_greeting_bloc_beginner_guide/blob/master/screenshots/Screen_one.png?raw=true" alt="First Screen" width="300" height="600" />
-  <img src="https://github.com/mahankheirollahi/name_greeting_bloc_beginner_guide/blob/master/screenshots/Screen_two.png?raw=true" alt="Second Screen" width="300" height="600" />
+  <img src="https://github.com/mahankheirollahi/name_greeting_bloc_beginner_guide/blob/main/screenshots/Screen_one.png?raw=true" alt="First Screen" width="300" height="600" />
+  <img src="https://github.com/mahankheirollahi/name_greeting_bloc_beginner_guide/blob/main/screenshots/Screen_two.png?raw=true" alt="Second Screen" width="300" height="600" />
 </div>
 
 
