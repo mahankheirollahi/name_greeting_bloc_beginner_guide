@@ -13,8 +13,12 @@ class GreetingBloc extends Bloc<GreetingEvent, GreetingState> {
     on<GetFavoriteColor>(_getFavoriteColor);
   }
 
-  FutureOr<void> _getName(GetName event, Emitter<GreetingState> emit) {}
+  FutureOr<void> _getName(GetName event, Emitter<GreetingState> emit) {
+    emit(state.copyWith(name: event.name));
+  }
 
   FutureOr<void> _getFavoriteColor(
-      GetFavoriteColor event, Emitter<GreetingState> emit) {}
+      GetFavoriteColor event, Emitter<GreetingState> emit) {
+    emit(state.copyWith(favoriteColor: event.favoriteColor));
+  }
 }
