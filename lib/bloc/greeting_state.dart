@@ -17,6 +17,6 @@ class GreetingState extends Equatable {
   }
 
   factory GreetingState.initial() {
-    return const GreetingState(name: '', favoriteColor: Colors.white);
+    return const GreetingState(name: '', favoriteColor: Colors.red);
   }
 }
