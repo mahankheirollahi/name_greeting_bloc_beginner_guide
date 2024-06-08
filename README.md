@@ -1,8 +1,6 @@
 # Name Greeting Flutter Bloc Beginner Guide
 
-##### This project is a simple name greeting app which demonstrates the usages of flutter bloc state management for beginners. For further 
-
-##### User's enter their name and choose their favorite color in the first screen and in the second screen they will be greeted and the ui color will be their choosen favorite color which show case the usage of bloc injection into widget tree, how events work and how to access and rebuild the ui according to the bloc state.
+##### This project is a simple name greeting app designed to demonstrate the usage of Flutter Bloc state management for beginners.Users enter their name and select their favorite color on the first screen. On the second screen, they are greeted with their name, and the UI color changes to their chosen favorite color. This showcases the usage of Bloc injection into the widget tree, the functioning of events, and how to access and rebuild the UI based on the Bloc state.
 
 ##### For further details, you can read my Medium article here [Check out my article on Bloc State Management](https://medium.com/p/b709973904e8)
 
