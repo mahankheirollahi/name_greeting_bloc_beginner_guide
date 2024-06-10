@@ -1,6 +1,6 @@
 ### Name Greeting App Flutter Bloc Beginner Guide
 
-### The Name Greeting app is a simple project designed to demonstrate the usage of Flutter Bloc state management for beginners.
+### The Name Greeting app is a simple project designed to demonstrate the usage of Flutter Bloc state management for beginners 😊👋
 
 ### App's features:
 
